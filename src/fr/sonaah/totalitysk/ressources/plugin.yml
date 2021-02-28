@@ -1,0 +1,6 @@
+name: TotalitySK
+author: Sonaah_
+description: https://skript-mc.fr/forum/profile/19667-sonaah_/content/?type=downloads_file
+version: 0.4b
+main: fr.sonaah.totalitysk.Main
+depend: [Skript]
